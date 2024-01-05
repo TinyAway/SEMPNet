@@ -1,2 +1,2 @@
 # SEMPNet
-Official implimentation of SAM enhanced mask parsing network.
+Official implementation of SAM enhanced mask parsing network.
